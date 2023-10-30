@@ -10,6 +10,7 @@ public class Project2_4 {
 		int num1, num2, num3, max;
 		
 		System.out.println("첫번째 숫자를 입력하세요 : ");
+		System.out.print("d");
 		num1 = scanner.nextInt();
 		System.out.println("두번째 숫자를 입력하세요 : ");
 		num2 = scanner.nextInt();

@@ -11,10 +11,10 @@ public class ToStringTest {
 		int[] num = {1,2,3,4,5};
 		
 //		System.out.println(str); //error
-		System.out.println(Arrays.toString(str));
+		System.out.println(Arrays.toString(str)); //[kim, lee, hong]
 		
 //		System.out.println(num); //error
-		System.out.println(Arrays.toString(num));
+		System.out.println(Arrays.toString(num)); //[1, 2, 3, 4, 5]
 
 	}
 
